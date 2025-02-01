@@ -4,7 +4,7 @@
   "settings": {
     "width": 2000,
     "height": 2000,
-    "scrollTop": -2,
+    "scrollTop": 0,
     "scrollLeft": -5,
     "zoomLevel": 1,
     "show": 431,
@@ -64,14 +64,14 @@
         "ui": {
           "x": 227,
           "y": 119,
-          "zIndex": 2,
+          "zIndex": 192,
           "widthName": 91,
           "widthComment": 60,
           "color": ""
         },
         "meta": {
-          "updateAt": 1738019708989,
-          "createAt": 1738018626578
+          "updateAt": 1738019723529,
+          "createAt": 1738018626577
         }
       },
       "IdQT3KIGA7ffztN8Hlkd1": {
@@ -97,13 +97,13 @@
         "ui": {
           "x": 138,
           "y": 382,
-          "zIndex": 34,
+          "zIndex": 135,
           "widthName": 135,
           "widthComment": 60,
           "color": ""
         },
         "meta": {
-          "updateAt": 1738019137878,
+          "updateAt": 1738019283165,
           "createAt": 1738018815256
         }
       },
@@ -131,14 +131,14 @@
         "ui": {
           "x": 774,
           "y": 119,
-          "zIndex": 120,
+          "zIndex": 170,
           "widthName": 117,
           "widthComment": 60,
           "color": ""
         },
         "meta": {
-          "updateAt": 1738020201688,
-          "createAt": 1738019229425
+          "updateAt": 1738019343469,
+          "createAt": 1738019229424
         }
       }
     },
@@ -148,7 +148,7 @@
         "tableId": "E1gbIMgpsA9nbdv19Orkf",
         "name": "COD_EMPRESA",
         "comment": "",
-        "dataType": "int",
+        "dataType": "INT",
         "default": "",
         "options": 10,
         "ui": {
@@ -159,7 +159,7 @@
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1738020200676,
+          "updateAt": 1738019019245,
           "createAt": 1738018701983
         }
       },
@@ -168,7 +168,7 @@
         "tableId": "E1gbIMgpsA9nbdv19Orkf",
         "name": "DATA_VIGENCIA",
         "comment": "",
-        "dataType": "datetime",
+        "dataType": "DATETIME",
         "default": "",
         "options": 10,
         "ui": {
@@ -179,7 +179,7 @@
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1738020198587,
+          "updateAt": 1738019053116,
           "createAt": 1738018739076
         }
       },
@@ -199,7 +199,7 @@
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1738018865814,
+          "updateAt": 1738018865813,
           "createAt": 1738018829541
         }
       },
@@ -219,7 +219,7 @@
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1738018865814,
+          "updateAt": 1738018865813,
           "createAt": 1738018851107
         }
       },
@@ -228,7 +228,7 @@
         "tableId": "IdQT3KIGA7ffztN8Hlkd1",
         "name": "DATA_INICIO_VIGENCIA_RESPONSAVEL_EMPRESA",
         "comment": "",
-        "dataType": "datetime",
+        "dataType": "DATETIME",
         "default": "",
         "options": 10,
         "ui": {
@@ -239,7 +239,7 @@
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1738020220790,
+          "updateAt": 1738019223946,
           "createAt": 1738018883572
         }
       },
@@ -248,7 +248,7 @@
         "tableId": "IdQT3KIGA7ffztN8Hlkd1",
         "name": "DATA_FIM_VIGENCIA_RESPONSAVEL_EMPRESA",
         "comment": "",
-        "dataType": "datetime",
+        "dataType": "",
         "default": "",
         "options": 0,
         "ui": {
@@ -259,8 +259,8 @@
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1738020224958,
-          "createAt": 1738018929727
+          "updateAt": 1738018941290,
+          "createAt": 1738018929726
         }
       },
       "iOv9rxuBzN3Hhp35QN2CP": {
@@ -279,7 +279,7 @@
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1738018954948,
+          "updateAt": 1738018954947,
           "createAt": 1738018954947
         }
       },
@@ -299,8 +299,8 @@
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1738018958587,
-          "createAt": 1738018958587
+          "updateAt": 1738018958586,
+          "createAt": 1738018958586
         }
       },
       "BcVIQZ10xpcsBJXip4KQK": {
@@ -319,8 +319,8 @@
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1738019041491,
-          "createAt": 1738019041491
+          "updateAt": 1738019041490,
+          "createAt": 1738019041490
         }
       },
       "3-23RXF87q3xXWk7j6kxF": {
@@ -328,7 +328,7 @@
         "tableId": "IdQT3KIGA7ffztN8Hlkd1",
         "name": "COD_EMPRESA",
         "comment": "",
-        "dataType": "int",
+        "dataType": "INT",
         "default": "",
         "options": 10,
         "ui": {
@@ -339,8 +339,8 @@
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1738020200676,
-          "createAt": 1738019058451
+          "updateAt": 1738019201476,
+          "createAt": 1738019058450
         }
       },
       "NWVp9yfVelwlCaQTZlr5M": {
@@ -348,7 +348,7 @@
         "tableId": "IdQT3KIGA7ffztN8Hlkd1",
         "name": "DATA_VIGENCIA",
         "comment": "",
-        "dataType": "datetime",
+        "dataType": "DATETIME",
         "default": "",
         "options": 10,
         "ui": {
@@ -359,8 +359,8 @@
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1738020198587,
-          "createAt": 1738019058451
+          "updateAt": 1738019200389,
+          "createAt": 1738019058450
         }
       },
       "W2mP1yTsJH09mpeAxiW_a": {
@@ -400,7 +400,7 @@
         },
         "meta": {
           "updateAt": 1738019313729,
-          "createAt": 1738019251967
+          "createAt": 1738019251966
         }
       },
       "y_oQa4zF-ytDZf5dAEGcm": {
@@ -408,7 +408,7 @@
         "tableId": "7vOnP6esbH5qpiGDEEa4C",
         "name": "DATA_INICIO_VIGENCIA_ENDERECO_EMPRESA",
         "comment": "",
-        "dataType": "datetime",
+        "dataType": "DATETIME",
         "default": "",
         "options": 10,
         "ui": {
@@ -419,7 +419,7 @@
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1738020205270,
+          "updateAt": 1738019306481,
           "createAt": 1738019256413
         }
       },
@@ -448,7 +448,7 @@
         "tableId": "7vOnP6esbH5qpiGDEEa4C",
         "name": "DATA_FIM_VIGENCIA_ENDERECO_EMPRESA",
         "comment": "",
-        "dataType": "datetime",
+        "dataType": "",
         "default": "",
         "options": 0,
         "ui": {
@@ -459,8 +459,8 @@
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1738020193341,
-          "createAt": 1738019284631
+          "updateAt": 1738019300500,
+          "createAt": 1738019284630
         }
       },
       "omCnhW9UOJ7OFr0YGj75p": {
@@ -480,7 +480,7 @@
         },
         "meta": {
           "updateAt": 1738019320808,
-          "createAt": 1738019320808
+          "createAt": 1738019320807
         }
       },
       "sQouNFTx_PL8zc45731l_": {
@@ -508,7 +508,7 @@
         "tableId": "7vOnP6esbH5qpiGDEEa4C",
         "name": "COD_EMPRESA",
         "comment": "",
-        "dataType": "int",
+        "dataType": "INT",
         "default": "",
         "options": 10,
         "ui": {
@@ -519,8 +519,8 @@
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1738020200676,
-          "createAt": 1738019337205
+          "updateAt": 1738019339945,
+          "createAt": 1738019337204
         }
       },
       "giPc-9fhQQYcNWgl1A9_V": {
@@ -528,7 +528,7 @@
         "tableId": "7vOnP6esbH5qpiGDEEa4C",
         "name": "DATA_VIGENCIA",
         "comment": "",
-        "dataType": "datetime",
+        "dataType": "DATETIME",
         "default": "",
         "options": 10,
         "ui": {
@@ -539,7 +539,7 @@
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1738020198587,
+          "updateAt": 1738019340864,
           "createAt": 1738019337205
         }
       },
@@ -548,7 +548,7 @@
         "tableId": "E1gbIMgpsA9nbdv19Orkf",
         "name": "CNPJ",
         "comment": "",
-        "dataType": "text",
+        "dataType": "TEXT",
         "default": "",
         "options": 0,
         "ui": {
@@ -559,8 +559,8 @@
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1738020212341,
-          "createAt": 1738019640597
+          "updateAt": 1738019664467,
+          "createAt": 1738019640596
         }
       },
       "76Fo7ic81FMj6tds79tEj": {
@@ -568,7 +568,7 @@
         "tableId": "E1gbIMgpsA9nbdv19Orkf",
         "name": "SITUACAO_EMPRESA",
         "comment": "",
-        "dataType": "int",
+        "dataType": "INT",
         "default": "",
         "options": 8,
         "ui": {
@@ -579,7 +579,7 @@
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1738020216845,
+          "updateAt": 1738019723632,
           "createAt": 1738019708989
         }
       }
@@ -637,8 +637,8 @@
           "direction": 4
         },
         "meta": {
-          "updateAt": 1738019041491,
-          "createAt": 1738019041491
+          "updateAt": 1738019041490,
+          "createAt": 1738019041490
         }
       },
       "2r71VJ4qX5mu9AMhpG9Bm": {
@@ -667,8 +667,8 @@
           "direction": 4
         },
         "meta": {
-          "updateAt": 1738019058451,
-          "createAt": 1738019058451
+          "updateAt": 1738019058450,
+          "createAt": 1738019058450
         }
       },
       "Id0FmB1wct8gqCak4vYte": {
@@ -759,7 +759,7 @@
       -1,
       {
         "name": 1738018727801,
-        "dataType": 1738020200676,
+        "dataType": 1738018714185,
         "options(notNull)": 1738018753634,
         "options(primaryKey)": 1738019019245
       }
@@ -770,7 +770,7 @@
       -1,
       {
         "name": 1738018747515,
-        "dataType": 1738020198586,
+        "dataType": 1738018750463,
         "options(notNull)": 1738018752201,
         "options(primaryKey)": 1738019053116
       }
@@ -814,7 +814,7 @@
       {
         "name": 1738018926378,
         "options(primaryKey)": 1738019206135,
-        "dataType": 1738020220789
+        "dataType": 1738019223946
       }
     ],
     "NeHPv3DU9Y_b7YP04ZtXr": [
@@ -822,8 +822,7 @@
       1738018929726,
       -1,
       {
-        "name": 1738018941290,
-        "dataType": 1738020224957
+        "name": 1738018941290
       }
     ],
     "iOv9rxuBzN3Hhp35QN2CP": [
@@ -877,7 +876,7 @@
       {
         "options(notNull)": 1738019058449,
         "name": 1738019058449,
-        "dataType": 1738020200676,
+        "dataType": 1738019058449,
         "default": 1738019058449,
         "comment": 1738019058449,
         "options(primaryKey)": 1738019201475
@@ -890,7 +889,7 @@
       {
         "options(notNull)": 1738019058449,
         "name": 1738019058449,
-        "dataType": 1738020198586,
+        "dataType": 1738019058449,
         "default": 1738019058449,
         "comment": 1738019058449,
         "options(primaryKey)": 1738019200388
@@ -946,7 +945,7 @@
       -1,
       {
         "name": 1738019265524,
-        "dataType": 1738020205269,
+        "dataType": 1738019256413,
         "default": 1738019256413,
         "comment": 1738019256413,
         "options(notNull)": 1738019256413,
@@ -967,7 +966,7 @@
       -1,
       {
         "name": 1738019300500,
-        "dataType": 1738020193341,
+        "dataType": 1738019284630,
         "default": 1738019284630,
         "comment": 1738019284630,
         "options(notNull)": 1738019284630,
@@ -1012,7 +1011,7 @@
       {
         "options(notNull)": 1738019337204,
         "name": 1738019337204,
-        "dataType": 1738020200676,
+        "dataType": 1738019337204,
         "default": 1738019337204,
         "comment": 1738019337204,
         "options(primaryKey)": 1738019339945
@@ -1025,7 +1024,7 @@
       {
         "options(notNull)": 1738019337204,
         "name": 1738019337204,
-        "dataType": 1738020198586,
+        "dataType": 1738019337204,
         "default": 1738019337204,
         "comment": 1738019337204,
         "options(primaryKey)": 1738019340864
@@ -1043,7 +1042,7 @@
       -1,
       {
         "name": 1738019646130,
-        "dataType": 1738020212341,
+        "dataType": 1738019657995,
         "options(notNull)": 1738019664467
       }
     ],
@@ -1053,7 +1052,7 @@
       -1,
       {
         "name": 1738019715982,
-        "dataType": 1738020216845,
+        "dataType": 1738019720957,
         "options(notNull)": 1738019723632
       }
     ]
